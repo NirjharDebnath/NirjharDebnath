@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nirjhar Debnath
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning BTech
+- 🌱 I’m currently doing BTech
 - 💞️ 
 - 📫 
 - 😄 
