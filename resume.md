@@ -88,6 +88,6 @@ Scored: 90%
 
 ---
 
-## $\text{References}$
+## References
 
 Available upon request.
