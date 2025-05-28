@@ -24,7 +24,7 @@ Curious and driven first-year undergraduate student in Computer Science and Engi
 ### Higher Secondary (CBSE) – Pure Science (PCMB)
 **Satish Chandra Memorial School**, Chakdah, India  
 `2022 – 2024`  
-Scored: 90% percent
+Scored: 90%
 
 ---
 
