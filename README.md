@@ -1,7 +1,6 @@
 # NIRJHAR DEBNATH
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=18&pause=1000&color=36BCF7&width=435&lines=Wait+A+Moment!!!!;Hey+Who's+That!!!!"/>
-<hr style="border: none; height: 1px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364);" />
 
 <div align="center">
 <table>
