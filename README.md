@@ -102,7 +102,7 @@
 <br>
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364);" />
 
-### Top Repository
+### ✨ Top Repository
 - [![From Scratch](https://img.shields.io/badge/Github-From%20Scratch-044349?style=flat&logo=github&logoColor=white)](https://github.com/NirjharDebnath/From-Scratch)
 
 <br>
