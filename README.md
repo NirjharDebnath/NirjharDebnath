@@ -20,8 +20,6 @@
 
 - 🌐 I love contributing to **`open-source`** and learning from **`real-world projects`**.
 
-<hr style="border: none; height: 1px; background: linear-gradient(to left, #0f2027, #203a43, #2c5364);" />
-
 
 ### 🚀 Tech Stack
 
@@ -119,5 +117,3 @@
 </table>
 </table>
 </div>
-
-<hr style="border: none; height: 1px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364);" />
