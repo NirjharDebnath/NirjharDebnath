@@ -115,11 +115,6 @@
 </div>
 
 </td>
-<td>
-
-)
-
-</td>
 </tr>
 </table>
 </table>
