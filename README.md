@@ -1,51 +1,128 @@
-# 👋 Hey there, I'm Nirjhar Debnath
+# NIRJHAR DEBNATH
 
-I'm an enthusiastic and curious **Computer Science undergrad** who loves exploring how systems work at every level — from the hardware all the way to high-level AI. I'm always building something new or trying to understand something better.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=18&pause=1000&color=36BCF7&width=435&lines=Wait+A+Moment!!!!;Hey+Who's+That!!!!"/>
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364);" />
 
-## 🧠 About Me
-- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering**
-- 💻 Passionate about **programming**, **statistics and probability, mathematics**, and **AI systems**
-- 📚 Learning and experimenting with **Algorithms and Analysis**, **C/C++**, **Linux Systems**, **Machine Learning**, **Quantum Computing** and **Low Level Programming**
-- 🌱 Always open to collaborating, contributing, and growing
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 📫 Connect with Me
+### 👨‍🎓 About Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirjhardebnath2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NirjharDebnath)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirjhardebnath-515918331)
+- 👋 Hi there! I'm Nirjhar — an engineering undergrad and explorer of **`Computer Science And Engineering Realm`**.  
 
----
+- 🎓 Currently pursuing **B.Tech** with a focus on core fundamental of **`Computer Science`**, AI, and scientific computing.  
 
-## 🛠️ Languages & Tools
+- 💡 I enjoy working on with theory and applications of **`Machine Learning, Deep Learning, Data Science, Quantum computing, Cybersecurity and Cryptographic Algorithms**, and **Low Level System Design`**. Not to forget about **`Mathematics, Staistics and Probability`**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- 🎯 I am enthusiastic about **`Core Computer Science, Algorithms, Architecture and Organisation, Operating Sustems, Networking and Securtiy`**
 
----
+- 🌐 I love contributing to **`open-source`** and learning from **`real-world projects`**.
 
-## 📊 GitHub Stats
+<hr style="border: none; height: 1px; background: linear-gradient(to left, #0f2027, #203a43, #2c5364);" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirjharDebnath&show_icons=true&theme=tokyonight" alt="Nirjhar's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirjharDebnath&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirjharDebnath&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### 🚀 Tech Stack
 
----
+<div align="left">
 
-## ⚡ Fun Fact
+#### 🧠 Languages
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://c.com/)
 
-I’m not that funny… but I do know how to debug like a wizard. 🧙‍♂️
+#### 🔬 ML / DL Frameworks
 
-<!---
-NirjharDebnath/NirjharDebnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)](https://qiskit.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-064534?style=flat&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
+[![LangGraph](https://img.shields.io/badge/LangGraph-043349?style=flat&logo=langgraph&logoColor=white)](https://github.com/langchain-ai/langgraph)
+
+#### 📊 Scientific Libraries
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+
+#### 🛠️ Tools & Platforms
+
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat&logo=jupyter&logoColor=F37626)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![Markdown](https://img.shields.io/badge/Markdown-050D38?style=flat&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
+
+<hr style="border: none; height: 1px; background: linear-gradient(to left, #0f2027, #203a43, #2c5364);" />
+
+### 📫 Let's Connect
+
+<div align="left">
+
+[![Gmail](https://img.shields.io/badge/Gmail-nirjhardebnath2006@gmail.com-red?style=flat&logo=gmail)](mailto:nirjhardebnath2006@gmail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nirjhar%20Debnath-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nirjhar-debnath-515918331/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Nirjhar-blue?style=flat&logo=kaggle)](https://www.kaggle.com/nirjhardebnath)
+[![Github](https://img.shields.io/badge/Github-Nirjhar-blue?style=flat&logo=kaggle)](https://www.github.com/NirjharDebnath)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=NirjharDebnath&style=flat-square&color=2c5364&labelColor=0f2027&logo=github&logoColor=white&label=👁️‍🗨️%20Profile%20Views)
+</div>
+
+</div>
+
+
+<div align="justify">
+
+
+</td>
+<td valign="top" width="50%">
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirjharDebnath&show_icons=true&theme=github_dark&hide=contribs&hide_title=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NirjharDebnath&theme=github_dark&hide_border=false)](https://git.io/streak-stats) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirjharDebnath&layout=compact&theme=github_dark)
+
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364);" />
+
+### 🏅 Badges & Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=NirjharDebnath&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364);" />
+
+### Top Repository
+- [![From Scratch](https://img.shields.io/badge/Github-From%20Scratch-044349?style=flat&logo=github&logoColor=white)](https://github.com/NirjharDebnath/From-Scratch)
+
+<br>
+<br>
+<br>
+<br>
+
+<div style="align-item: center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=18&pause=1000&color=36BCF7&width=435&lines=Looks+Like+You+Have+Seen+It....;Thanks+For+Visiting!!!!" />
+</div>
+
+</td>
+<td>
+
+)
+
+</td>
+</tr>
+</table>
+</table>
+</div>
+
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364);" />
