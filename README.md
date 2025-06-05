@@ -67,7 +67,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-nirjhardebnath2006@gmail.com-0f0336?style=flat&logo=gmail)](mailto:nirjhardebnath2006@gmail)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nirjhar%20Debnath-0f0336?style=flat&logo=linkedin)](https://www.linkedin.com/in/nirjhar-debnath-515918331/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Nirjhar-0f0336?style=0f0336&logo=kaggle)](https://www.kaggle.com/nirjhardebnath)
-[![Github](https://img.shields.io/badge/Github-Nirjhar-0f0336?style=0f0336&logo=kaggle)](https://www.github.com/NirjharDebnath)
+[![Github](https://img.shields.io/badge/Github-Nirjhar-0f0336?style=0f0336&logo=github)](https://www.github.com/NirjharDebnath)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NirjharDebnath&style=flat-square&color=2c5364&labelColor=0f2027&logo=github&logoColor=white&label=👁️‍🗨️%20Profile%20Views)
