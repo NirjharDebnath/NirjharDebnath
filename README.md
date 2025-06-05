@@ -13,7 +13,7 @@
 
 - 🎓 Currently pursuing **B.Tech** with a focus on core fundamental of **`Computer Science`**, AI, and scientific computing.  
 
-- 💡 I enjoy working on with theory and applications of **`Machine Learning, Deep Learning, Data Science, Quantum computing, Cybersecurity and Cryptographic Algorithms**, and **Low Level System Design`**. Not to forget about **`Mathematics, Staistics and Probability`**
+- 💡 I enjoy working on with theory and applications of **`Machine Learning, Deep Learning, Data Science, Quantum computing, Cybersecurity and Cryptographic Algorithms`**, and **`Low Level System Design`**. Not to forget about **`Mathematics, Staistics and Probability`**
 
 - 🎯 I am enthusiastic about **`Core Computer Science, Algorithms, Architecture and Organisation, Operating Sustems, Networking and Securtiy`**
 
