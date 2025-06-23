@@ -102,6 +102,7 @@
 
 ### ✨ Top Repository
 - [![From Scratch](https://img.shields.io/badge/Github-From%20Scratch-044349?style=flat&logo=github&logoColor=white)](https://github.com/NirjharDebnath/From-Scratch)
+- [![Deep Learning](https://img.shields.io/badge/Github-Deep%20Learning-4287f8?style=flat&logo=github&logoColor=white)](https://github.com/NirjharDebnath/Deep-Learning)
 
 <br>
 <br>
