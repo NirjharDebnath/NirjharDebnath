@@ -1,120 +1,178 @@
 # NIRJHAR DEBNATH
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=18&pause=1000&color=36BCF7&width=435&lines=Wait+A+Moment!!!!;Hey+Who's+That!!!!"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Mono&size=18&pause=1000&color=36BCF7&width=500&lines=Wait+A+Moment!!!!;Hey%2C+Who's+That!!!!" alt="Typing SVG">
+</p>
 
-<div align="center">
 <table>
 <tr>
+
+<!-- LEFT COLUMN -->
+
 <td valign="top" width="50%">
 
-### 👨‍🎓 About Me
+## 👨‍🎓 About Me
 
-- 👋 Hi there! I'm Nirjhar — an engineering undergrad and explorer of **`Computer Science And Engineering Realm`**.  
+👋 Hi there! I'm **Nirjhar** — an engineering undergraduate exploring the **Computer Science and Engineering realm**.
 
-- 🎓 Currently pursuing **B.Tech** with a focus on core fundamental of **`Computer Science`**, AI, and scientific computing.  
+🎓 Currently pursuing **B.Tech** with a focus on **Core Computer Science, System Designs, Low Level Systems, high performance computation etc**.
 
-- 💡 I enjoy working on with theory and applications of **`Machine Learning, Deep Learning, Data Science, Quantum computing, Cybersecurity and Cryptographic Algorithms`**, and **`Low Level System Design`**. Not to forget about **`Mathematics, Staistics and Probability`**
+💡 Enjoying exploring the theory and applications of:
 
-- 🎯 I am enthusiastic about **`Core Computer Science, Algorithms, Architecture and Organisation, Operating Sustems, Networking and Securtiy`**
+* `Low-Level System Design`
+* `Machine Learning`
+* `Deep Learning`
+* `Data Science`
+* `Computer Networks`
+* `Cryptographic Algorithms`
+* `Mathematics, Statistics & Probability`
 
-- 🌐 I love contributing to **`open-source`** and learning from **`real-world projects`**.
+🎯 Particularly interested in:
 
+* `Data Structures & Algorithms`
+* `Operating Systems`
+* `Computer Architecture`
+* `Computer Networks`
+* `System Design`
+* `Distributed Systems`
+* `Computer Security`
 
-### 🚀 Tech Stack
+🌐 I enjoy contributing to **Open Source**, experimenting with ideas, and learning from real-world projects.
 
-<div align="left">
+---
 
-#### 🧠 Languages
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://c.com/)
+## 🚀 Tech Stack
 
-#### 🔬 ML / DL Frameworks
+### 💻 Languages
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)](https://qiskit.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-064534?style=flat&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
-[![LangGraph](https://img.shields.io/badge/LangGraph-043349?style=flat&logo=langgraph&logoColor=white)](https://github.com/langchain-ai/langgraph)
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+</p>
 
-#### 📊 Scientific Libraries
+### 🤖 ML / DL
 
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)](https://matplotlib.org/)
-[![SciPy](https://img.shields.io/badge/SciPy-013243?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+</p>
 
-#### 🛠️ Tools & Platforms
+### 🧩 LLM / AI Engineering
 
-![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat&logo=jupyter&logoColor=F37626)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-[![Markdown](https://img.shields.io/badge/Markdown-050D38?style=flat&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph">
+</p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to left, #0f2027, #203a43, #2c5364);" />
+### 📊 Scientific Computing
 
-### 📫 Let's Connect
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/SciPy-013243?style=flat&logo=scipy&logoColor=white" alt="SciPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn">
+</p>
 
-<div align="left">
+### ⚛️ Quantum Computing
 
-[![Gmail](https://img.shields.io/badge/Gmail-nirjhardebnath2006@gmail.com-0f0336?style=flat&logo=gmail)](mailto:nirjhardebnath2006@gmail)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nirjhar%20Debnath-0f0336?style=flat&logo=linkedin)](https://www.linkedin.com/in/nirjhar-debnath-515918331/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Nirjhar-0f0336?style=0f0336&logo=kaggle)](https://www.kaggle.com/nirjhardebnath)
-[![Github](https://img.shields.io/badge/Github-Nirjhar-0f0336?style=0f0336&logo=github)](https://www.github.com/NirjharDebnath)
+<p>
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white" alt="Qiskit">
+</p>
 
+### 🛠️ Tools & Platforms
 
-![Profile Views](https://komarev.com/ghpvc/?username=NirjharDebnath&style=flat-square&color=2c5364&labelColor=0f2027&logo=github&logoColor=white&label=👁️‍🗨️%20Profile%20Views)
-</div>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white" alt="Fedora">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+</p>
 
-</div>
+---
 
+## 📫 Let's Connect
 
-<div align="justify">
+<p>
+<a href="mailto:nirjhardebnath2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-nirjhardebnath2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+</p>
 
+<p>
+<a href="https://www.linkedin.com/in/nirjhar-debnath-515918331/">
+<img src="https://img.shields.io/badge/LinkedIn-Nirjhar%20Debnath-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.kaggle.com/nirjhardebnath">
+<img src="https://img.shields.io/badge/Kaggle-Nirjhar-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle">
+</a>
+
+<a href="https://github.com/NirjharDebnath">
+<img src="https://img.shields.io/badge/GitHub-Nirjhar-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=NirjharDebnath&style=flat-square&color=2c5364&labelColor=0f2027&logo=github&logoColor=white&label=Profile%20Views" alt="Profile Views">
+</p>
 
 </td>
+
+<!-- RIGHT COLUMN -->
+
 <td valign="top" width="50%">
 
-### 📈 GitHub Stats
+## ⭐ Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirjharDebnath&show_icons=true&theme=github_dark&hide=contribs&hide_title=true)
+<p>
+<img src="https://img.shields.io/badge/GitHub-From--Scratch-044349?style=flat&logo=github&logoColor=white" alt="From-Scratch">
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NirjharDebnath&theme=github_dark&hide_border=false)](https://git.io/streak-stats) 
+<p>
+<img src="https://img.shields.io/badge/GitHub-Deep--Learning-4287F8?style=flat&logo=github&logoColor=white" alt="Deep Learning">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirjharDebnath&layout=compact&theme=github_dark)
+---
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364);" />
+## 🧪 Currently Exploring
 
-### 🏅 Badges & Trophies
+```text
+┌──────────────────────────────────┐
+│        Computer Science          │
+├──────────────────────────────────┤
+│ • Operating Systems              │
+│ • Computer Networks              │
+│ • Computer Architecture          │
+│ • Distributed Systems            │
+│ • System Design                  │
+└──────────────────────────────────┘
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NirjharDebnath&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+```
+
+---
+
+## 💭 Philosophy
+
+> **Understand the abstraction.
+> Then understand what is underneath it.**
+
+---
 
 <br>
-<hr style="border: none; height: 1px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364);" />
 
-### ✨ Top Repository
-- [![From Scratch](https://img.shields.io/badge/Github-From%20Scratch-044349?style=flat&logo=github&logoColor=white)](https://github.com/NirjharDebnath/From-Scratch)
-- [![Deep Learning](https://img.shields.io/badge/Github-Deep%20Learning-4287f8?style=flat&logo=github&logoColor=white)](https://github.com/NirjharDebnath/Deep-Learning)
-
-<br>
-<br>
-<br>
-<br>
-
-<div style="align-item: center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=18&pause=1000&color=36BCF7&width=435&lines=Looks+Like+You+Have+Seen+It....;Thanks+For+Visiting!!!!" />
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Looks+Like+You've+Seen+It....;Thanks+For+Visiting!!!!" alt="Typing SVG">
+</p>
 
 </td>
+
 </tr>
 </table>
-</table>
-</div>
